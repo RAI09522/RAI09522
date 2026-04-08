@@ -1,5 +1,4 @@
-## Hi there 
-# こんにちは
+# こんにちは　<br>Hi there
 
 <!--
 **RAI09522/RAI09522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
